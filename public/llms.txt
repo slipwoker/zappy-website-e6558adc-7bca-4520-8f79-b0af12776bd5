@@ -1,0 +1,57 @@
+# מכוניות 1 — Generative Engine Optimization Map
+
+> A רכב ורכבים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://1-e6558adc.zappy5.app
+גלה מכוניות יוקרה פרימיום במכוניות 1 - המקום המוביל למכירת רכבי יוקרה בישראל. התייעץ איתנו עוד היום!
+
+### שירותים
+https://1-e6558adc.zappy5.app/services
+שירותי מכירת מכוניות יוקרה תל אביב ובכל הארץ - רכבי יוקרה חדשים ומכוניות יד שנייה פרימיום, ייעוץ מקצועי ומימון מותאם אישית.
+
+### אודות
+https://1-e6558adc.zappy5.app/about
+הכירו את מכוניות 1 - המקום המוביל למכירת רכבי יוקרה בישראל. שנים של ניסיון, מקצועיות ושירות יוצא דופן.
+
+### צור קשר
+https://1-e6558adc.zappy5.app/contact
+צרו קשר עם מכוניות 1 - מומחים למכירת מכוניות יוקרה תל אביב ובכל הארץ. נשמח לעזור לכם למצוא את הרכב המושלם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://1-e6558adc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://1-e6558adc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://1-e6558adc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מכוניות 1
+מכוניות 1 is a business in the רכב ורכבים industry.
+
+## Target Audience
+- בעלי הכנסות גבוהות בערים
+
+## Industry
+רכב ורכבים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://1-e6558adc.zappy5.app/sitemap.xml
+- **Robots.txt**: https://1-e6558adc.zappy5.app/robots.txt
